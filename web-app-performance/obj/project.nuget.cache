@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8WcTwQxKKkE=",
+  "dgSpecHash": "B2FvBhyd3gE=",
   "success": true,
-  "projectFilePath": "D:\\pasta\\web-app-performance\\web-app-performance\\web-app-performance.csproj",
+  "projectFilePath": "C:\\Users\\labsfiap\\Source\\Repos\\web-app-performance\\web-app-performance\\web-app-performance.csproj",
   "expectedPackageFiles": [
     "C:\\Softwares\\Nuget\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Softwares\\Nuget\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

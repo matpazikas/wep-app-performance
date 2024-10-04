@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\pasta\\web-app-performance\\",
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28447BF2-122D-47FC-AACB-CB5E4C6E8299}|web-app-performance\\web-app-performance.csproj|d:\\pasta\\web-app-performance\\web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28447BF2-122D-47FC-AACB-CB5E4C6E8299}|web-app-performance\\web-app-performance.csproj|c:\\users\\labsfiap\\source\\repos\\web-app-performance\\web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28447BF2-122D-47FC-AACB-CB5E4C6E8299}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28447BF2-122D-47FC-AACB-CB5E4C6E8299}|web-app-performance\\web-app-performance.csproj|d:\\pasta\\web-app-performance\\web-app-performance\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28447BF2-122D-47FC-AACB-CB5E4C6E8299}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE8876C1-7A32-4505-87D9-84500D9997E8}|web-app-repository\\web-app-repository.csproj|c:\\users\\labsfiap\\source\\repos\\web-app-performance\\web-app-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8876C1-7A32-4505-87D9-84500D9997E8}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8876C1-7A32-4505-87D9-84500D9997E8}|web-app-repository\\web-app-repository.csproj|c:\\users\\labsfiap\\source\\repos\\web-app-performance\\web-app-repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8876C1-7A32-4505-87D9-84500D9997E8}|web-app-repository\\web-app-repository.csproj|solutionrelative:web-app-repository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352C64EF-E983-4820-896C-0190F8B51FC4}|web-app-domain\\web-app-domain.csproj|c:\\users\\labsfiap\\source\\repos\\web-app-performance\\web-app-domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352C64EF-E983-4820-896C-0190F8B51FC4}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28447BF2-122D-47FC-AACB-CB5E4C6E8299}|web-app-performance\\web-app-performance.csproj|c:\\users\\labsfiap\\source\\repos\\web-app-performance\\web-app-performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28447BF2-122D-47FC-AACB-CB5E4C6E8299}|web-app-performance\\web-app-performance.csproj|solutionrelative:web-app-performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352C64EF-E983-4820-896C-0190F8B51FC4}|web-app-domain\\web-app-domain.csproj|c:\\users\\labsfiap\\source\\repos\\web-app-performance\\web-app-domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352C64EF-E983-4820-896C-0190F8B51FC4}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "D:\\pasta\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\UsuarioController.cs",
-              "ToolTip": "D:\\pasta\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "web-app-performance\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFoAAAAvAAAA",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-performance\\Program.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Program.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-performance\\Program.cs",
+              "RelativeToolTip": "web-app-performance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T23:27:21.108Z",
+              "WhenOpened": "2024-10-03T23:47:32.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-repository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-repository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "web-app-repository\\IUsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:39:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Usuario.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-domain\\Usuario.cs",
+              "RelativeToolTip": "web-app-domain\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:26:14.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-domain\\Class1.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-domain\\Class1.cs",
+              "RelativeToolTip": "web-app-domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:24:08.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\pasta\\web-app-performance\\web-app-performance\\Model\\Usuario.cs",
-              "RelativeDocumentMoniker": "web-app-performance\\Model\\Usuario.cs",
-              "ToolTip": "D:\\pasta\\web-app-performance\\web-app-performance\\Model\\Usuario.cs",
-              "RelativeToolTip": "web-app-performance\\Model\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Source\\Repos\\web-app-performance\\web-app-repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "web-app-repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Source\\Repos\\web-app-performance\\web-app-repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "web-app-repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T00:55:14.337Z",
+              "WhenOpened": "2024-10-03T23:19:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\web-app-performance\\web-app-performance\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "web-app-performance\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:27:21.108Z",
               "EditorCaption": ""
             }
           ]
